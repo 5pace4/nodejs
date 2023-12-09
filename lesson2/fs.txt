@@ -1,0 +1,18 @@
+Fs Module: contains various methods
+    Assynchronus function:
+
+    writeFile()
+    appendFile()
+    readFile()
+    rename()
+    Unlink()
+    Exists()
+
+    synchronus function:
+    
+    writeFileSync()
+    appendFileSync()
+    readFileSync()
+    renameSync()
+    UnlinkSync()
+    ExistsSync()
