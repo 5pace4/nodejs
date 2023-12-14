@@ -6,5 +6,5 @@ http : to create http server
 https : to create https server
 fs : to handle file system
 path : to handle file path
-url : to handle URl string
+url : to handle URL string
 util : to access utility functions  

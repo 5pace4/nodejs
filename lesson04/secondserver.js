@@ -9,8 +9,10 @@ const hostname = '127.0.0.1';
 // }).listen(3000);
 
 const myserver = http.createServer((req, res) => {
-
-    res.end("Hello, I am your first server");
+    //set status code : 202
+    res.writeHead(202, {'content-type': 'text/html'});
+    res.write("<h1>Hello, I am your second server</h1>");
+    res.end();
 });
 
 // myserver.listen(3000, ()=> {

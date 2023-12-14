@@ -1,6 +1,6 @@
-Module : is a set of functios (think about js libraries such as Math)
+Module : is a set of functions (think about js libraries such as Math)
 
 Types:
      1. Local Modules 
-     2. Build in Modules (no need to install) - http, url, path, fs(file system)
-     3.external modules
+     2. Built in Modules (no need to install) - http, url, path, fs(file system)
+     3. external modules
