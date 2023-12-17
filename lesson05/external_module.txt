@@ -1,0 +1,10 @@
+- External Module managed by npm
+    ex. nodemon
+
+-Where can we find external module/package?
+    https://www.npmjs.com/
+
+-How to use externl modules / packages?
+    .make sure you have initialized the npm (npm init or npm init -y)
+    .then install packages and read the documentation for using these packages
+     

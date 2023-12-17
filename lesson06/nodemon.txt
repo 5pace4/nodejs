@@ -1,0 +1,5 @@
+why we use nodemon?
+
+if we update then it will automatically restart server. 
+
+command for run a server: npm start

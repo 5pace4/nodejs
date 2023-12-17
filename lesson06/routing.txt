@@ -1,0 +1,10 @@
+-What is routing ? How to do it ?
+    127.0.0.1:3000/home
+    127.0.0.1:3000/about
+    127.0.0.1:3000/contact
+    
+-Installing nodemon package
+
+-How to get the requested url 
+
+-reading html files in server based on requested url
