@@ -6,5 +6,5 @@ HTTP status code:
 1. Informational response (100 - 199)
 2. successful response(200 - 299)
 3. redirects(300 - 399)
-4. client error (499 - 499)
+4. client error (400 - 499)
 5. server error (500 - 599)
